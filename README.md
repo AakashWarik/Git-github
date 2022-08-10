@@ -1,2 +1,3 @@
 # Git-github
 This is my 1st Repository
+This is for study purpose...
